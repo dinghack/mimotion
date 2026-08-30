@@ -1,4 +1,5 @@
 name: 刷步数
+# wake cron
 
 on:
   schedule:
